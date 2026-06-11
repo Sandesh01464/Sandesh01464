@@ -21,7 +21,6 @@
 
  
 - Cisco Introduction to Cybersecurity(I2C)
-  
  🔗 https://www.credly.com/badges/052dc6f4-6ee0-4080-b227-4bb465fbd255/public_url
 ---
 
