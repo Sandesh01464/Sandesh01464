@@ -1,16 +1,53 @@
-## Hi there 👋
+<h1 align="center">Hey 👋 </h1>
 
-<!--
-**Sandesh01464/Sandesh01464** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&center=true&vCenter=true&width=500&lines=CCNA+Learner;Networking+Enthusiast" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚡ About Me
+
+ 
+- 🧠 Learning CCNA (Routing, Switching, Subnetting)  
+- 💻 Practicing labs in GNS3 & Cisco Packet Tracer  
+
+
+---
+
+## 🛠️ Tools I Use
+
+<p align="center">
+
+  <!-- GNS3 -->
+<!--  <img src="https://raw.githubusercontent.com/GNS3/gns3-gui/master/resources/images/gns3.png" height="90" alt="GNS3" />
+
+  &nbsp;&nbsp;&nbsp;
+
+  <!-- Cisco Packet Tracer -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Cisco_logo.svg" height="80" alt="Cisco" />
+
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/GNS3-Network%20Simulation-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Packet%20Tracer-Cisco%20Labs-blue?style=for-the-badge?logo=cisco" />
+</p>
+
+---
+
+
+
+
+## 🚀 Focus Areas
+
+- Routing & Switching (CCNA)
+- Subnetting Practice
+- Network Security Basics
+- Packet Analysis
+
+---
+
+<p align="center">
+  🔥 "Packets don’t lie, networks don’t forget."
+</p>
