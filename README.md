@@ -11,7 +11,7 @@
  
 - 🧠 Learning CCNA (Routing, Switching, Subnetting)  
 - 💻 Practicing labs in GNS3 & Cisco Packet Tracer
-- 
+  
 - ---
 
 ## 🏆 Certifications
