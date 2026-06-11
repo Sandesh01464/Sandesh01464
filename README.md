@@ -19,6 +19,10 @@
 - Certified Cybersecurity Educator Professional (CCEP)  
   🔗 https://courses.redteamleaders.com/exam-completion/7de18e4b62a6b5d5
 
+  
+- Cisco Introduction to Cybersecurity (Credly Badge)  
+  https://www.credly.com/badges/052dc6f4-6ee0-4080-b227-4bb465fbd255/public_url
+
 ---
 
 ## 🛠️ Tools I Use
