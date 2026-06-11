@@ -10,8 +10,14 @@
 
  
 - 🧠 Learning CCNA (Routing, Switching, Subnetting)  
-- 💻 Practicing labs in GNS3 & Cisco Packet Tracer  
+- 💻 Practicing labs in GNS3 & Cisco Packet Tracer
+- 
+- ---
 
+## 🏆 Certifications
+
+- Certified Cybersecurity Educator Professional (CCEP)  
+  🔗 https://courses.redteamleaders.com/exam-completion/7de18e4b62a6b5d5
 
 ---
 
