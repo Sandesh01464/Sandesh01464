@@ -22,6 +22,11 @@
  
 - Cisco Introduction to Cybersecurity(I2C)
  🔗 https://www.credly.com/badges/052dc6f4-6ee0-4080-b227-4bb465fbd255/public_url
+
+
+- **AI and Career Empowerment** — University of Maryland
+  🔗 Certificate: https://umd.catalog.instructure.com/certificates/ai-and-career-empowerment-81805.pdf
+  
 ---
 
 ## 🛠️ Tools I Use
