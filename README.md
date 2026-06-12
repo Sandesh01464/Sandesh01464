@@ -14,21 +14,19 @@
   
 - ---
 
+
 ## 🏆 Certifications
 
 - Certified Cybersecurity Educator Professional (CCEP)  
-   🔗 https://courses.redteamleaders.com/exam-completion/7de18e4b62a6b5d5
+  🔗 https://courses.redteamleaders.com/exam-completion/7de18e4b62a6b5d5
 
- 
-- Cisco Introduction to Cybersecurity(I2C)
+- Cisco Introduction to Cybersecurity (I2C)  
   🔗 https://www.credly.com/badges/052dc6f4-6ee0-4080-b227-4bb465fbd255/public_url
 
+- AI and Career Empowerment — University of Maryland  
+  🔗 https://umd.catalog.instructure.com/certificates/ai-and-career-empowerment-81805.pdf
 
-- **AI and Career Empowerment** — University of Maryland
-   🔗 Certificate: https://umd.catalog.instructure.com/certificates/ai-and-career-empowerment-81805.pdf
-  
 ---
-
 ## 🛠️ Tools I Use
 
 <p align="center">
